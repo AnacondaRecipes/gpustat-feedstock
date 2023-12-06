@@ -2,3 +2,5 @@ channels:
   - https://staging.continuum.io/prefect/fs/ansicon-feedstock/pr1/4c032d3
   - https://staging.continuum.io/prefect/fs/jinxed-feedstock/pr2/dbcf5a8
   - https://staging.continuum.io/prefect/fs/blessed-feedstock/pr2/f692cef
+  - https://staging.continuum.io/prefect/fs/nvidia-ml-py-feedstock/pr2/6bd00e4
+  - https://staging.continuum.io/prefect/fs/mockito-feedstock/pr1/56d7fc1

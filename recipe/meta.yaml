@@ -34,7 +34,7 @@ test:
     - gpustat
   requires:
     - pytest >=5.4.1
-    - mockito >=1.2.1
+    - mockito >=1.4.0
     - pytest-runner
     - pip
   commands:
